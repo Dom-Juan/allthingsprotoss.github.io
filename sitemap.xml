@@ -6,23 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://allthingsprotoss.github.io/</loc>
-  <lastmod>2020-07-07T07:22:00Z</lastmod>
+  <loc>https://allthingsprotoss.github.io/2020/</loc>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/archive.html</loc>
-  <lastmod>2020-07-07T07:29:00Z</lastmod>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/blog/</loc>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/categories/</loc>
-  <lastmod>2020-07-07T07:22:00Z</lastmod>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
  </url>
  <url>
-  <loc>https://allthingsprotoss.github.io/galleries/</loc>
-  <lastmod>2020-07-07T07:22:00Z</lastmod>
+  <loc>https://allthingsprotoss.github.io/pages/</loc>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
  </url>
  <url>
-  <loc>https://allthingsprotoss.github.io/listings/</loc>
-  <lastmod>2020-07-07T07:22:00Z</lastmod>
+  <loc>https://allthingsprotoss.github.io/posts/test-post/</loc>
+  <lastmod>2020-07-07T07:46:00Z</lastmod>
  </url>
 </urlset>
