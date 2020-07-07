@@ -7,26 +7,114 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://allthingsprotoss.github.io/</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/2019/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/2020/</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/archive.html</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/authors/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/authors/gemini_19/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/authors/harstem/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/authors/rallthingsprotoss-community/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/authors/tossboy/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/categories/</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/2020-season-2/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/article/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/beginner/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/cat_2020-season-2/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/cat_guides/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/cat_pvt/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/colossus/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/early-game/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/harstem/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/maps/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/phoenix/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/pvt/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/categories/pvz/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://allthingsprotoss.github.io/pages/</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
  <url>
-  <loc>https://allthingsprotoss.github.io/posts/test-post/</loc>
-  <lastmod>2020-07-07T07:53:00Z</lastmod>
+  <loc>https://allthingsprotoss.github.io/posts/2020-season-2-travel-advisory/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/posts/geminis-2020-season-2-wall-offreaper-wall-guide/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/posts/harstem-stats-colossus-phoenix-opener-vs-terran-guide/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://allthingsprotoss.github.io/posts/tossboys-beginner-pvz-guide-part-1-early-game/</loc>
+  <lastmod>2020-07-07T08:17:00Z</lastmod>
  </url>
 </urlset>
